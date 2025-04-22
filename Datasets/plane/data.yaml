@@ -1,0 +1,13 @@
+train: images
+val: images
+test: images
+
+nc: 1
+names: ['Airplane']
+
+roboflow:
+  workspace: airplanedetection
+  project: ap1baliairport
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/airplanedetection/ap1baliairport/dataset/2

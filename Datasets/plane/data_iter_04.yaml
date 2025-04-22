@@ -1,0 +1,7 @@
+names:
+- Airplane
+nc: 1
+path: /content/drive/MyDrive/Colab Notebooks/컴퓨터 비전/CV_midterm_competition_code_v2/Datasets/plane
+test: test_iter_04.txt
+train: train_iter_04.txt
+val: val_iter_04.txt
