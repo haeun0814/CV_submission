@@ -8,4 +8,4 @@
 ###submission_2_20223292.py : FLDet-N
 
 
-###submission_3_20223292.py :  YOLOv8-nano /  YOLOv9-tiny
+###submission_3_20223292.py : YOLOv9-tiny
